@@ -1,2 +1,3 @@
 # Portfolio | French_Data_Scientist 
-<img width="953" alt="image" src="https://github.com/user-attachments/assets/8511acc2-0ace-4770-9e94-987df6db70a8" />
+<img width="954" alt="image" src="https://github.com/user-attachments/assets/d2dfed7f-dc93-4f16-8720-f0e0c80c5dba" />
+
