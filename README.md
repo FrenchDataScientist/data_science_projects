@@ -1,3 +1,2 @@
-# French_Data_Scientist
-
-<img width="945" alt="image" src="https://github.com/user-attachments/assets/925b2fc9-d303-4ee9-b70f-3d84a9d9c800" />
+# Hi There, Welcome to my Data Science Projects Portfolio | French_Data_Scientist 
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/8511acc2-0ace-4770-9e94-987df6db70a8" />
